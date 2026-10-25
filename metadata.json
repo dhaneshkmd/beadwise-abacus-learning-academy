@@ -1,0 +1,6 @@
+{
+  "name": "BeadWise – Smart Digital Abacus Learning Academy",
+  "description": "Master mathematics with a realistic, interactive Soroban abacus, step-by-step curriculum, mental abacus training, smart hints, and learning analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
